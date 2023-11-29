@@ -1,0 +1,13 @@
+# Leitura da entrada do usuário:
+url = input()
+resultado = ""
+
+if url.startswith("https://"):
+    resultado = "URL segura"
+elif url.startswith("http://"):
+    resultado = "URL nao segura"
+else:
+    resultado = "Formato invalido"
+
+# Exibe o resultado
+print(resultado)  # Imprime o dado, pulando linha
