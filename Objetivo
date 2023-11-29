@@ -8,7 +8,4 @@ Este programa JavaScript verifica se uma URL é segura (inicia com "https://"), 
 2. Insira a URL quando solicitado.
 3. O programa mostrará se a URL é segura, não segura ou possui um formato inválido.
 
-## Observação
-Certifique-se de incluir o protocolo completo na URL (por exemplo, "https://").
 
-Sinta-se à vontade para usar e modificar este código conforme necessário.
